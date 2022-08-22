@@ -29,7 +29,7 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
--special thanks to my dear firiend and colleague how help me to build this project
+-special thanks to my dear friend and colleague how help me to build this project
 - GitHub: [@juharyiman]https://github.com/juaryimami)
 
 ## 📝 License
